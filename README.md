@@ -1,6 +1,6 @@
 # XYLO Agent Framework
 
-[![Watch the Showcase Video](https://img.youtube.com/vi/x2iMxMy0Fek/maxresdefault.jpg)](https://www.youtube.com/watch?v=x2iMxMy0Fek)
+[![Watch the Showcase Video](https://img.youtube.com/vi/oafUbkDQPsY/maxresdefault.jpg)](https://youtu.be/oafUbkDQPsY)
 
 ## Prerequisites
 
